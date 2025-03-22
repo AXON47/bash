@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Configuration
-HOST="192.168.100.65"  # Apna server IP daal dein
-PORT="4444"            # Port number
+HOST="193.161.193.99"  # Apna server IP daal dein
+PORT="53892"            # Port number
 
 # Colors for better output
 GREEN='\033[0;32m'
